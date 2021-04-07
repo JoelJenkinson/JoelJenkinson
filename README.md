@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoelJenkinson
 - 👀 I’m interested in Crypto, Octobot.online, the 3rd industrial revolution, Sustainability, Social Upliftment
 - 🌱 I’m currently learning about Crypto trading, using Octobot.online
-- 💞️ I’m looking to collaborate on Cape Autonomy Token
+- 💞️ I’m looking to collaborate on building a Crypto coin to facilitate an autonomous CapeTown,ZA
 - 📫 How to reach me: Joel#1182 (Discord), Joel._Jenkinson (Instagram), @JoelJenkinson (GitHub)
 
 <!---
